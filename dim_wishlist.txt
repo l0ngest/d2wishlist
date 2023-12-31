@@ -1,0 +1,146 @@
+title:l0ngpants' Wishlist
+description:l0ngpants' personal wants
+
+// Scatter Signal (PvE)
+//notes:PvE- strand top dps special
+dimwishlist:item=2558925366&perks=1482024992,2680121939,3643424744,2594592626
+
+// Gallu RR3 (PvP)
+//notes:PvP-
+dimwishlist:item=617501162&perks=,1570042021,957782887
+
+// Perses-D (PvE)
+//notes:PvE-
+dimwishlist:item=1019000888&perks=,247725512,124408337
+
+// Taipan-4fr (PvE)
+//notes:PvE-
+dimwishlist:item=1911060537&perks=,689005463,3400784728,2896038713
+
+// Boudica-C (PvE)
+//notes:PvE-
+dimwishlist:item=1916287826&perks=,691659142,3708227201
+
+// Ammit AR2 (PvE)
+//notes:PvE-
+dimwishlist:item=2119346509&perks=,3400784728,4293542123
+
+// Ammit AR2 (PvP)
+//notes:PvP-
+dimwishlist:item=2119346509&perks=,1359896290,1890422124
+
+// Fugue-55 (PvE)
+//notes:PvE-
+dimwishlist:item=2233545123&perks=,1354429876,1771339417
+
+// Lunulata-4b (PvE)
+//notes:PvE-
+dimwishlist:item=2513965917&perks=852209214,3429800428,2846385770,124408337
+
+// Krait (PvE)
+//notes:PvE-
+dimwishlist:item=2852052802&perks=839105230,1561002382,3643424744,2896038713
+
+// Syncopation-53 (PvP)
+//notes:PvP-
+dimwishlist:item=2856514843&perks=,588594999,460017080
+
+// Funnelweb (PvE)
+//notes:PvE-
+dimwishlist:item=3341893443&perks=202670084,3142289711,1820235745,4104185692
+
+// Typhon GL5 (PvP)
+//notes:PvP-
+dimwishlist:item=3568377122&perks=1478423395,409831596,951095735,3592538738
+
+// The Militia's Birthright (PvE)
+//notes:PvE-
+dimwishlist:item=40394833&perks=,3032599245,1556840489,3300816228
+
+// Wendigo GL3 (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=555148853&perks=,3301904089,951095735,3194351027
+
+// Pure Poetry (PvP)
+//notes:PvP- harmony double taps
+dimwishlist:item=2671639706&perks=1840239774,1885400500,1428297954,438098033
+
+// Fortissimo-11 (PvE)
+//notes:PvE-
+dimwishlist:item=2821430069&perks=,1354429876,2896038713
+dimwishlist:item=2821430069&perks=,1354429876,3708227201
+
+// Xenoclast IV (PvE)
+//notes:PvE-
+dimwishlist:item=2891672170&perks=,3300816228,2679249093
+dimwishlist:item=2891672170&perks=,3300816228,2360754333
+
+// Empty Vessel (PvE)
+//notes:PvE- solar+blinding+autoloading
+dimwishlist:item=4255586669&perks=,3032599245,3300816228,1546637391
+
+// Cartesian Coordinate (PvE)
+//notes:PvE-
+dimwishlist:item=2481881293&perks=2405638014,689005463,1556840489,1546637391
+
+// First In, Last Out (PvE)
+//notes:PvE-
+dimwishlist:item=3616586446&perks=,3300816228,1546637391
+dimwishlist:item=3616586446&perks=,3300816228,3708227201
+
+// The Keening (PvE)
+//notes:PvE-
+dimwishlist:item=409551876&perks=,4071163871,3708227201
+
+// Riptide (PvE)
+//notes:PvE-
+dimwishlist:item=2715240478&perks=,689005463,3300816228,2978966579
+dimwishlist:item=2715240478&perks=,689005463,1556840489,2978966579
+
+// Out of Bounds (PvE)
+//notes:PvE-
+dimwishlist:item=2988121501&perks=,3523296417,3708227201
+dimwishlist:item=2988121501&perks=,3523296417,2610012052
+
+// Frozen Orbit (PvP)
+//notes:PvP-
+dimwishlist:item=3473290087&perks=,588594999,957782887
+dimwishlist:item=3473290087&perks=,280464955,957782887
+
+// Albruna-D (PvP)
+//notes:PvP-
+dimwishlist:item=676270382&perks=,588594999,957782887
+
+// Servant Leader (PvP)
+//notes:PvP-
+dimwishlist:item=1107446438&perks=839105230,3177308360,1168162263,1015611457
+
+// Herod-C (PvE)
+//notes:PvE-
+dimwishlist:item=1788603939&perks=,1354429876,124408337
+
+// Gunnora's Axe (PvE)
+//notes:PvE-
+dimwishlist:item=487361141&perks=,4071163871,2173046394
+
+// Allied Demand (PvP)
+//notes:PvP-
+dimwishlist:item=1532276803&perks=,2846385770,591790007
+
+// Razor's Edge (PvE)
+//notes:PvE-
+dimwishlist:item=1796949035&perks=,1749209109,4104185692
+
+// The Hero's Burden (PvE)
+//notes:PvE-
+dimwishlist:item=2488587246&perks=,2387244414,776531651
+
+// Roar of the Bear (PvE)
+//notes:PvE-
+dimwishlist:item=4009352833&perks=,2985827016,951095735,1546637391
+dimwishlist:item=4009352833&perks=,2985827016,3523296417,3927722942
+
+// Whistler's Whim (PvP)
+//notes:PvP-
+dimwishlist:item=1574601402&perks=852209214,3429800428,1365187766
+
